@@ -1,4 +1,4 @@
-# easy_monitor
+# background_monitor
 
 后台监听操作[键盘、粘贴事件、自动截图]
 
